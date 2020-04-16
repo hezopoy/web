@@ -1,0 +1,25 @@
+HOME
+MENU
+RECIPES 
+CONTACT
+========================
+Welcome to example cafe. 
+We will be developing this site throoughout the book.
+
+A community cafe serving home cooked, locally sourced, organic food
+
+Photo of scrambled eggs on an English muffin
+With stunning views of the ocean, Example Cafe offers the perfect evironment to unwind and recharge 
+the batteries
+
+Our menu offers a wide range of breakfasts, brunches and lunches, including a range of vegetarian 
+options.
+
+Wheter you sip on a fresh, hot coffee or a cooling smothie, you never need to feel rushed 
+- relax with friends or just the world go by.
+
+This weekend's special bunch
+
+This weekend, our season of special brunches continues with scrambled egg on an English muffin. 
+Not for the faint-hearted, the secret to these eggs is that they are made with half cream and 
+cooked in butter, with no more than four eggs in the pan at a time.
